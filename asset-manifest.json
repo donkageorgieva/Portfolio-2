@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Website/static/css/main.26620015.chunk.css",
+    "main.js": "/Portfolio-Website/static/js/main.8f142f9b.chunk.js",
+    "main.js.map": "/Portfolio-Website/static/js/main.8f142f9b.chunk.js.map",
+    "runtime-main.js": "/Portfolio-Website/static/js/runtime-main.f2894a8e.js",
+    "runtime-main.js.map": "/Portfolio-Website/static/js/runtime-main.f2894a8e.js.map",
+    "static/js/2.75ad1dd3.chunk.js": "/Portfolio-Website/static/js/2.75ad1dd3.chunk.js",
+    "static/js/2.75ad1dd3.chunk.js.map": "/Portfolio-Website/static/js/2.75ad1dd3.chunk.js.map",
+    "static/js/3.a57398bc.chunk.js": "/Portfolio-Website/static/js/3.a57398bc.chunk.js",
+    "static/js/3.a57398bc.chunk.js.map": "/Portfolio-Website/static/js/3.a57398bc.chunk.js.map",
+    "index.html": "/Portfolio-Website/index.html",
+    "static/css/main.26620015.chunk.css.map": "/Portfolio-Website/static/css/main.26620015.chunk.css.map",
+    "static/js/2.75ad1dd3.chunk.js.LICENSE.txt": "/Portfolio-Website/static/js/2.75ad1dd3.chunk.js.LICENSE.txt",
+    "static/media/Cat-Facts.e66c0243.PNG": "/Portfolio-Website/static/media/Cat-Facts.e66c0243.PNG",
+    "static/media/development.5b5380d2.svg": "/Portfolio-Website/static/media/development.5b5380d2.svg",
+    "static/media/shortly.27bda5a3.png": "/Portfolio-Website/static/media/shortly.27bda5a3.png",
+    "static/media/wineshop.2f01fa3f.png": "/Portfolio-Website/static/media/wineshop.2f01fa3f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2894a8e.js",
+    "static/js/2.75ad1dd3.chunk.js",
+    "static/css/main.26620015.chunk.css",
+    "static/js/main.8f142f9b.chunk.js"
+  ]
+}
