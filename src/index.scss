@@ -1,0 +1,60 @@
+@import "./App.scss";
+
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: #fefbf6 !important ;
+  h1 {
+    font-family: "Raleway", sans-serif;
+    font-weight: 900;
+    color: $primary;
+    font-size: 4rem;
+  }
+  h2 {
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+    color: $primary;
+    font-size: 2rem;
+  }
+  h3 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    color: $primary;
+    font-size: 1rem;
+  }
+  p {
+    font-size: 14px;
+    font-family: "Montserrat", sans-serif;
+    color: #483358;
+  }
+  a {
+
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+  }
+  img {
+    max-width: 100%;
+  }
+  footer{
+    background-color: #28232c;
+    height: 200px;
+    h3{
+      color: $secondary;
+    }
+    p{
+      color: $secondary;
+    }
+  }
+}
+@include media-breakpoint-down(lg){
+  body{
+h1{
+  font-size: 40px;
+}
+h2{
+  font-size: 20px;
+}
+  }
+
+}

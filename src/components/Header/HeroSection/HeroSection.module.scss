@@ -1,0 +1,26 @@
+
+@import '../../../App.scss';
+
+.HeroSection{
+    height: 100vh;
+}
+.Center{
+    max-width: 100%;
+}
+@include media-breakpoint-down(md){
+    .Center{
+        max-width: 75%;
+        button{
+            display: block;
+        }
+    }
+
+    .HeroSection{
+
+        height: 850px;
+    }
+    .Image{
+        max-height: 250px;
+margin: 5rem 0rem 5rem 0rem;
+    }
+}
